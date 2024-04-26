@@ -1,6 +1,6 @@
-menu.export_extensions = Export Extensions
-module.export_extensions = Export Extensions
-export_extensions = Export Extensions
+menu.export_extensions = Export des Extensions
+module.export_extensions = Export des Extensions
+export_extensions = Export des Extensions
 export_extensions.add_extension = Ajouter Extensions
 export_extensions.extensions = Extensions
 export_extensions.export_extensions.tooltip = Extensions à exporter
